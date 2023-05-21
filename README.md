@@ -6,10 +6,6 @@
 - 🌱 Atualmente estudando HTML, CSS, Javascript & React.
 - 📩 leticiakax@gmail.com
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Leticiakax&bg_color=8c8c8c&color=ffffff&line=737373&point=d1d1d1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leticiakax&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=8c8c8c&" alt="Letícia K. github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=8c8c8c" />
+<div align="left">  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=DCDCDC" />
 </div>
