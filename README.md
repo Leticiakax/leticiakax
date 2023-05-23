@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDCDC&size=35&center=true&vCenter=true&width=1000&lines=Hey!,+you+can+call+me+Lee.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align= "center"> <p> 👩🏻‍🎓  2° Semestre de Análise e Desenvolvimento de Sistemas. <br>
-🌱 Atualmente estudando HTML, CSS, Javascript & React. <br>
+<div align= "center"> <p> 👩🏻‍🎓 2nd Semester of Systems Development Analyst. <br>
+🌱 Currently studying HTML, CSS, Javascript, React & React Native. <br>
   📩 leticiakax@gmail.com </p> </div>
 
 <div align="center">  
